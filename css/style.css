@@ -1,0 +1,25 @@
+h1, h2{
+    color: teal;
+    font-family: cursive;
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a{
+    background-color: darkorange
+}
+
+a:hover{
+    background-color: aquamarine;
+}
+
+
+.top-margin{
+    margin-top: 100px;
+}
+.top-margin a{
+    margin: 20px;
+    
+}
